@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Eezy</string>
+    <string name="calTitle">Eezy Calendar</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="add_event">Add Event</string>
+    <string name="eezy">Eezy</string>
+    <string name="go_to_calendar">Go to Calendar</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="title_password">Password Manager</string>
+    <string name="title_password_name">Name</string>
+    <string name="title_password_user">Username</string>
+    <string name="title_password_password">Password</string>
+    <string name="title_save">Save</string>
+</resources>

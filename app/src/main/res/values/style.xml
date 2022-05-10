@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CalLight" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/pink2</item>
+        <item name="colorPrimary">@color/purple1</item>
+        <item name="android:textColorPrimary">@color/purple1</item>
+    </style>
+
+    <style name="CalLightText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:weekNumberColor">@color/purple1</item>
+        <item name="android:textColor">@color/purple1</item>
+    </style>
+
+    <style name="CalLightWeekText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/purple1</item>
+    </style>
+
+    <style name="CalNight" parent="Theme.AppCompat">
+        <item name="colorAccent">@color/purple1</item>
+        <item name="colorPrimary">@color/pink2</item>
+        <item name="android:textColorPrimary">@color/pink2</item>
+    </style>
+
+    <style name="CalNightText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/pink2</item>
+        <item name="android:weekNumberColor">@color/purple2</item>
+    </style>
+
+    <style name="CalNightWeekText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/pink2</item>
+    </style>
+
+</resources>
